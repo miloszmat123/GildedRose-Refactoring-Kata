@@ -1,3 +1,11 @@
+Changes by our group:
+- optimaize main class
+- introduce interfaces for product type
+- implement tests
+
+
+
+
 _Support this and all my katas via [Patreon](https://www.patreon.com/EmilyBache)_
 
 # Gilded Rose Refactoring Kata
